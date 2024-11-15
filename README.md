@@ -2,7 +2,7 @@
 
 This is an assembly language implementation of the classic Tetris game.
 
-##Project specifications
+## Project specifications
 # - Unit width in pixels:       1
 # - Unit height in pixels:      1
 # - Display width in pixels:    64
